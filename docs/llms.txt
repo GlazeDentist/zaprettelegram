@@ -1,10 +1,10 @@
 # zaprettelegram
 
-zaprettelegram возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+Обновлённая версия для Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 
 zaprettelegram возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/GlazeDentist/zaprettelegram/releases/latest
-Код: https://github.com/GlazeDentist/zaprettelegram
+Релиз: https://github.com/glazedentist/zaprettelegram/releases/latest
+Код: https://github.com/glazedentist/zaprettelegram
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/GlazeDentist/zaprettelegram
+Страница: https://github.com/glazedentist/zaprettelegram
